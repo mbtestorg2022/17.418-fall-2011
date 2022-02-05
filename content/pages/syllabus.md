@@ -24,10 +24,47 @@ Requirements and Grading
 
 A successful seminar requires attendance at every meeting, completion of all readings and active, engaged participation. To stimulate discussion, students will be assigned as discussants.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 30% |
-| Short Essays | 30% |
-| Final Exercise | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Essays
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exercise
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Research memos count toward class participation. To learn about the memos and other assignments, please see the [Assignments section]({{< baseurl >}}/pages/assignments).

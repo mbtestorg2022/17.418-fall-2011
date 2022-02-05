@@ -4,18 +4,135 @@ title: Calendar
 uid: 15f6a015-5dfa-cdd9-d4e0-36b10bdde364
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction and Organization |
-| 2 | Overview of the Field |
-| 3 | Material Approaches |
-| 4 | Rationalist Approaches |
-| 5 | Ideational and Identity-Based Approaches |
-| 6 | Cognitive and Bureaucratic Approaches |
-| 7 | Domestic Institutions and Preferences |
-| 8 | War and Conflict |
-| 9 | Peace and International Cooperation |
-| 10 | War, Peace, and Domestic Institutions |
-| 11 | Nuclear Proliferation and Deterrence |
-| 12 | Unipolarity |
-| 13 | Rationalism Revisited
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Organization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the Field
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Material Approaches
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Rationalist Approaches
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Ideational and Identity-Based Approaches
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Cognitive and Bureaucratic Approaches
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Domestic Institutions and Preferences
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+War and Conflict
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Peace and International Cooperation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+War, Peace, and Domestic Institutions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Nuclear Proliferation and Deterrence
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Unipolarity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Rationalism Revisited
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
